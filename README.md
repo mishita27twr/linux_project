@@ -54,7 +54,7 @@ For manifesto.sh, type any example input when prompted.
 ## Screenshots
 
 **system_info.sh Output**  
-![system_info](https://github.com/mishita27twr/linux_project/raw/main/Screenshots/system_info.png)
+![system_info](Screenshots/system_info.png)
 
 **package_inspector.sh Output**  
 ![package_inspector](https://github.com/mishita27twr/linux_project/raw/main/Screenshots/package_inspector.png)
