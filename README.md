@@ -54,16 +54,16 @@ For manifesto.sh, type any example input when prompted.
 ## Screenshots
 
 **system_info.sh Output**  
-![system_info](screenshots/system_info.png)
+![system_info](https://github.com/mishita27twr/linux_project/raw/main/screenshots/system_info.png)
 
 **package_inspector.sh Output**  
-![package_inspector](screenshots/package_inspector.png)
+![package_inspector](https://github.com/mishita27twr/linux_project/raw/main/screenshots/package_inspector.png)
 
 **disk_perm_audit.sh Output**  
-![disk_perm_audit](screenshots/disk_perm_audit.png)
+![disk_perm_audit](https://github.com/mishita27twr/linux_project/raw/main/screenshots/disk_perm_audit.png)
 
 **log_analyze.sh Output**  
-![log_analyze](screenshots/log_analyze.png)
+![log_analyze](https://github.com/mishita27twr/linux_project/raw/main/screenshots/log_analyze.png)
 
 **manifesto.sh Output**  
-![manifesto](screenshots/manifesto.png)
+![manifesto](https://github.com/mishita27twr/linux_project/raw/main/screenshots/manifesto.png)
